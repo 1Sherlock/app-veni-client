@@ -1,6 +1,4 @@
-/**
- * Created by Sherlock on 16.05.2021.
- */
+
 
 import React from 'react';
 import Header from "../../components/Header";

@@ -1,6 +1,3 @@
-/**
- * Created by Sherlock on 16.05.2021.
- */
 
 import React from 'react';
 import Link from "next/link";
